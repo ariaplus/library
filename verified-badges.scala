@@ -140,3 +140,153 @@ verifiedSociety,
 verifiedModel,
 verifiedShop,
 verifiedAI,
+
+
+
+
+
+
+
+
+
+
+
+verifiedGovernment: false;
+verifiedGovernmentDepartments: false;
+verifiedPlus: false;
+verifiedRepublican: false;
+verifiedDemocrat: false;
+verifiedSmallBusiness: false;
+verifiedOrganisation: false;
+verifiedCorporation: false;
+verifiedLandmark: false;
+verifiedMembersofCongress: false;  
+verifiedContentCreator: false;
+verifiedCompany: false;
+verifiedPresidents: false;
+verifiedPresidentialCandidates: false;
+verifiedPage: false;
+verifiedOracle: false;
+verifiedJournalist: false;
+verifiedWarJournalist: false;
+verifiedInfluencer: false;
+verifiedNBA: false;
+verifiedNFL: false;
+verifiedMLB: false;
+verifiedMLS: false;
+verifiedNASCAR: false;
+verifiedPremierLeague: false;
+verifiedNGO: false;
+verifiedWanda: false;
+verifiedBeta: false;
+verifiedArtist: false;
+verifiedAthlete: false;
+verifiedCollege: false;
+verifiedSchool: false;
+verifiedInstitution: false;
+verifiedCommunity: false;
+verifiedEntrepreneur: false;
+verifiedNonprofit: false;
+verifiedVideoGame: false;
+verifiedPet: false;
+verifiedSociety: false;
+verifiedModel: false;
+verifiedShop: false;
+verifiedAI: false;
+
+
+
+
+
+
+'verifiedGovernment'
+'verifiedGovernmentDepartments'
+'verifiedPlus'
+'verifiedRepublican'
+'verifiedDemocrat'
+'verifiedSmallBusiness'
+'verifiedOrganisation'
+'verifiedCorporation'
+'verifiedLandmark'
+'verifiedMembersofCongress'  
+'verifiedContentCreator'
+'verifiedCompany'
+'verifiedPresidents'
+'verifiedPresidentialCandidates'
+'verifiedPage'
+'verifiedOracle'
+'verifiedJournalist'
+'verifiedWarJournalist'
+'verifiedInfluencer'
+'verifiedNBA'
+'verifiedNFL'
+'verifiedMLB'
+'verifiedMLS'
+'verifiedNASCAR'
+'verifiedPremierLeague'
+'verifiedNGO'
+'verifiedWanda'
+'verifiedBeta'
+'verifiedArtist'
+'verifiedAthlete'
+'verifiedCollege'
+'verifiedSchool'
+'verifiedInstitution'
+'verifiedCommunity'
+'verifiedEntrepreneur'
+'verifiedNonprofit'
+'verifiedVideoGame'
+'verifiedPet'
+'verifiedSociety'
+'verifiedModel'
+'verifiedShop'
+'verifiedAI'
+
+
+
+
+
+
+
+|'verifiedGovernment'
+|'verifiedGovernmentDepartments'
+|'verifiedPlus'
+|'verifiedRepublican'
+|'verifiedDemocrat'
+|'verifiedSmallBusiness'
+|'verifiedOrganisation'
+|'verifiedCorporation'
+|'verifiedLandmark'
+|'verifiedMembersofCongress'  
+|'verifiedContentCreator'
+|'verifiedCompany'
+|'verifiedPresidents'
+|'verifiedPresidentialCandidates'
+|'verifiedPage'
+|'verifiedOracle'
+|'verifiedJournalist'
+|'verifiedWarJournalist'
+|'verifiedInfluencer'
+|'verifiedNBA'
+|'verifiedNFL'
+|'verifiedMLB'
+|'verifiedMLS'
+|'verifiedNASCAR'
+|'verifiedPremierLeague'
+|'verifiedNGO'
+|'verifiedWanda'
+|'verifiedBeta'
+|'verifiedArtist'
+|'verifiedAthlete'
+|'verifiedCollege'
+|'verifiedSchool'
+|'verifiedInstitution'
+|'verifiedCommunity'
+|'verifiedEntrepreneur'
+|'verifiedNonprofit'
+|'verifiedVideoGame'
+|'verifiedPet'
+|'verifiedSociety'
+|'verifiedModel'
+|'verifiedShop'
+|'verifiedAI'
