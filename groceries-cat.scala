@@ -737,18 +737,503 @@ EBT / SNAP eligible food - def -{ fresh produce - def - {organic foods - def - {
                                                                                                    canned biscuits 
                                                                                                    cinnamon and cresent rolls
                                                                                                    pizza and pie dough } 
-                                                        pudding and gelatine
+                                                        pudding and gelatine - def - {pudding
+                                                                                     gelatin
+                                                                                     rice pudding}
                                                         }
-                                 deli 
-                                 bakery and bread
+                                 deli - def - {specialty cheese and charcautarie  - def - {cured meat 
+                                                                                          party trays 
+                                                                                          specialty cheese}
+                                              deli meat adn cheese - def - {lunch buying guide 
+                                                                           turkey lunch meat 
+                                                                           ham lunch meat 
+                                                                           roaasted beef lunch meat 
+                                                                           great value lunch meat 
+                                                                           sliced deli meat 
+                                                                           deli sliced cheese
+                                                                           deli sliced ham 
+                                                                           deli sliced turkey 
+                                                                           pepperoni 
+                                                                           bologne
+                                                                           salami
+                                                                           fresh, sandwiches and wraps 
+                                                                           sandwich bread
+                                                                           condiments 
+                                                                           great value sandwich bags
+                                                                           lunch boxes}
+                                              prepared meals and sides - def - {prepared meals 
+                                                                               roitesserie chicken 
+                                                                               sides
+                                                                               fresh pizza
+                                                                               soup
+                                                                               salads 
+                                                                               fresh pasta 
+                                                                               sndwichs}
+                                              rotisserie and pulled chicken  - def - {roitesserie chicken 
+                                                                                     fresh table ready salads
+                                                                                     fresh vegetables
+                                                                                     pasta sides
+                                                                                     mac and cheese
+                                                                                     mashed patatoes
+                                                                                     beans 
+                                                                                     frozen vegetables
+                                                                                     stuffing
+                                                                                     rolls
+                                                                                     fresh pizza
+                                                                                     coke}
+                                              bacon, hot dogs and sausage  - def - {hot dogs
+                                                                                   bacon
+                                                                                   sausages
+                                                                                   pepperoni
+                                                                                   salami
+                                                                                   breakfast sausage
+                                                                                   dinner sausage
+                                                                                   ground sausage}
+                                              snacks and fresh sandwiches - def - {all sandwiches
+                                                                                  deli sub sandwiches
+                                                                                  deli heat and eat 
+                                                                                  deli wraps and pinwheels
+                                                                                  deli full subs
+                                                                                  deli half subs 
+                                                                                  lunch buying guide}
+                                              fresh prepared soups and salads - def - {potatoe salad 
+                                                                                      soups 
+                                                                                      colesalaw and backed beans
+                                                                                      chicken salads and protein
+                                                                                      pasta salad
+                                                                                      panera soup
+                                                                                      chicken salad
+                                                                                      crab salad
+                                                                                      amish potatoe salad
+                                                                                      amish macaroni salad}
+                                              hummus, dips and salsa - def - {hummus
+                                                                             spicy hummus 
+                                                                             roasted red pepper hummus
+                                                                             hummus singles
+                                                                             marketside humus
+                                                                             sabra 
+                                                                             charcauterie
+                                                                             gaucamole
+                                                                             fresh dips
+                                                                             french onion dips
+                                                                             fresh salsa}
+                                              }
+                                 bakery and bread - def - {}
                                  breakfast & cereal
                                  pantry items
-                                 snacks - def - {great value snacks}
-                                 frozen foods
-                                 beverages
-                                 candy
-                                 coffee
-                                 tea
+                                 snacks - def - {chips - def - {save on lays
+                                                               shop chips by brand
+                                                               takis
+                                                                kettle brand potatoe chips
+                                                                sanitas tortilla chips
+                                                                stacys pita chips 
+                                                                chesters fries 
+                                                                mac pork skins
+                                                                popcorners
+                                                               variety snacks 
+                                                               trotilla chips
+                                                               corn chips
+                                                               hot chips
+                                                               kettle chips
+                                                               party size
+                                                               rita chips
+                                                               rye chips
+                                                               veggie chips 
+                                                               puffed snacks
+                                                               pork rinds
+                                                               }
+                                                crackers - def - {gluten free crackers
+                                                                 goldfish
+                                                                 ritz
+                                                                 cheezits
+                                                                 sandwich crackers
+                                                                 wheat thins
+                                                                 club crackers
+                                                                 saltiness
+                                                                 multi pack crackers
+                                                                 }
+                                                fruit snacks - def - {fruit roll ups
+                                                                     gushers
+                                                                     welch fruit snacks
+                                                                     fruit by the foot
+                                                                     motts fruit snacks
+                                                                     }
+                                                cookies - def - {cookie variety packs
+                                                                great value cookies
+                                                                oreos
+                                                                chips ahoy
+                                                                nutter butters
+                                                                pepperidge farms cookies
+                                                                nilla wafers
+                                                                circus animal cookkies
+                                                                keebler cookies
+                                                                fig newtons
+                                                                pillbury cookies
+                                                                teddy grahams
+                                                                cookie multipacks
+                                                                variety packs
+                                                                chocalate chip
+                                                                panut butter
+                                                                oatmeal biscotti 
+                                                                butter cookies
+                                                                oatmeal raisin
+                                                                shortbread cookies
+                                                                lemon cookuies
+                                                                coconout cookies
+                                                                gluten free
+                                                                snicker doodle
+                                                                from bakeries
+                                                                macadamia cookies
+                                                                molasses cookies
+                                                                chocalate cookies
+                                                                vegan cookies
+                                                                waffer cookies
+                                                                fig cookies
+                                                                animal crackers
+                                                                sugar free cookies
+                                                                }
+                                                beef jrky and dried meats - def - {jerky
+                                                                                  snack meats
+                                                                                  teriyaki jerky
+                                                                                  jack links
+                                                                                  beef sticks
+                                                                                  slim jim
+                                                                                  smoked sausages
+                                                                                  biltong}
+                                                popcorn - def - {all popcorn
+                                                                microwave popcorn
+                                                                popcorn kernals
+                                                                popcorn seasoning
+                                                                great value popcorn
+                                                                act 2 popcorn
+                                                                martfood popcorn
+                                                                orville redenbachers
+                                                                butter flavoured popcorn
+                                                                 white chedder popcorn
+                                                                 movie theater popcorn
+                                                                 jolly time popcorn
+                                                                 caramel popcorn
+                                                                 kettle corn
+                                                               skinny pop 
+                                                              individual packs
+                                                                }
+                                                nuts, trail mix and seeds - def - {fresh packed nuts
+                                                                                  great value packs
+                                                                                  peanuts
+                                                                                  trail mix 
+                                                                                  almonds
+                                                                                  walnuts 
+                                                                                  cashews 
+                                                                                  pitashios
+                                                                                  mixed nuts
+                                                                                  }
+                                                pretzels  - def - {snyders pretzels
+                                                                  pretzel sticks
+                                                                  rold gold pretzels
+                                                                  pretzel rods
+                                                                  utz pretzels
+                                                                  great value pretzels
+                                                                  chocolate pretzels
+                                                                  pretzel individual packs
+                                                                  pretzels
+                                                                  pretzel canisters
+                                                                  gluten free pretzels
+                                                                  pretzel chips
+                                                                  }
+                                                granola bars - def {}
+                                                healthy snacks - def - {high protein snacks
+                                                                       healthy kids snacks
+                                                                       gluten free snacks
+                                                                       vegan snacks
+                                                                       on the go healthy snacks
+                                                                       sugar free snacks
+                                                                       keto snacks
+                                                                       }
+                                                meat sticks - def -  {meat sticks in beef jerky and dried meats}
+                                                dried fruits - def - {freeze dried fruit
+                                                                      dried cramberries 
+                                                                      dried prunes
+                                                                      dried raisins
+                                                                      dried dates
+                                                                      fruit chips and crisps
+                                                                      dried mango
+                                                                      dried apricots
+                                                                      dried figs
+                                                                     }
+                                                salsa and drips - def - {salsa
+                                                                        queso and cheese dips
+                                                                        totios salsa
+                                                                        cheese dips
+                                                                        pace salsa
+                                                                        salsa verde 
+                                                                        vegetable dips
+                                                                        bean dips
+                                                                         chipotle salsa
+                                                                         corn salsa
+                                                                         mango salsa
+                                                                         avocado salsa
+                                                                         fresh salsa
+                                                                         on the boder salsa
+                                                                         
+                                                                        }
+                                                }
+                                 frozen  - def - {frozen breakfast - def - {frozen waffels and pancakes
+                                                                           breakfast sandwiches
+                                                                           frozen breakfat bowls
+                                                                           frozen breakfast burritos
+                                                                           frozen breakfast susages
+                                                                           fozen hash browns
+                                                                           frozen bagels and biscuits 
+                                                                           frozen breakfast pastries}
+                                                 frozen deserts - def - {frozen single serve deserts 
+                                                                         frozen pies
+                                                                         frozen cakes
+                                                                         chocolate covered frozen fruit
+                                                                         cookies and brownies
+                                                                         whipped toppings
+                                                                         pie crusts and pastry doughs
+                                                                         ice cream and novelties
+                                                                        }
+                                                 frozen produce - def - {frozen vegetables
+                                                                        great value veetables
+                                                                        frozen fruits
+                                                                        great value frozen fruits
+                                                                        }
+                                                 frozen meat and snacks - def - {frozen family meals 
+                                                                                frozen individual meals
+                                                                                frozen healthy meals 
+                                                                                chef inspired frozen meals 
+                                                                                frozen pasta meals 
+                                                                                microwaves
+                                                                                stouffers frozen meals 
+                                                                                marie callender frozen meals 
+                                                                                frozn pot pies
+                                                                                healthy choice frozen meals 
+                                                                                lean cuisine frozen meals 
+                                                                                frozen asian meals and appetizers
+                                                                                frozen kds meals
+                                                                                frozen meatless meals
+                                                                                }
+                                                 frozen meat, seafood and vegeatrian - def - {frozen poutltry 
+                                                                                             frozen safood
+                                                                                             frozen fish 
+                                                                                             frozen meat 
+                                                                                             frozen beef
+                                                                                             frozen pork
+                                                                                             frozen plant based}
+                                                 frozen pizza, pizza, and breads - def - {great value frozen pizza
+                                                                                         personal size frozn pizzas
+                                                                                         red barom frozen pizzas
+                                                                                         digiorno frozen pizzas
+                                                                                         jacks frozen pizzas
+                                                                                         totinos party pizzas
+                                                                                         thin crust frozen pizzas
+                                                                                         deep dish frozen pizzas
+                                                                                         rising crust frozen pizzas
+                                                                                         cauliflower crust frozen pizzas
+                                                                                         frozen pizza crusts
+                                                                                         gluten free frozen pizzas
+                                                                                         pizza essentials
+                                                                                         }
+                                                 frozen potatoes- def - {frozen fries
+                                                                         hash browns
+                                                                         frozen tots
+                                                                         frozen onion rings
+                                                                         graet value potatoes
+                                                                         alexia frozen potatoes
+                                                                         ore-ida frozen potatoes
+                                                                         chackers rally fries
+                                                                         arbys frozen fries
+                                                                         air fryers
+                                                                         frozen potato side dihes
+                                                                         ]
+                                                 }
+                                 beverages - def - {soda pop - def - {coca cola - def - {coca cola
+                                                                                        diet coke
+                                                                                        coke zero
+                                                                                        coke cherry
+                                                                                        coke vanilla
+                                                                                        coke caffeinb free
+                                                                                        dr peper
+                                                                                        pepsi
+                                                                                        sprite
+                                                                                        mountauin dew
+                                                                                        soda brands
+                                                                                        soda flavours - def {cola
+                                                                                                            lemon lime soda
+                                                                                                            root beasr
+                                                                                                            ginger ale
+                                                                                                            orange soda
+                                                                                                            cherry soda
+                                                                                                            cream soda
+                                                                                                            soda flovours
+                                                                                                            soda brands
+                                                                                                            all soda
+                                                                                                            }
+                                                                                        all sode
+                                                                                        }
+                                                                     diet coke
+                                                                     dr pepper 
+                                                                     diet dr pepper
+                                                                     pepsi 
+                                                                     diet pepsi 
+                                                                     mountain dew
+                                                                     sprite
+                                                                     sprite zero
+                                                                     starry soda
+                                                                     jarritos
+                                                                     gerat value soda
+                                                                     soda brands
+                                                                     soda flavours
+                                                                     all sode
+                                                                     coolers
+                                                                     }
+                                                   water - def - {great value water
+                                                                 sparkaling water
+                                                                 falvoured water
+                                                                 spring water
+                                                                 dsililled water
+                                                                 alkaline water
+                                                                 gallon water
+                                                                 bottled water
+                                                                 drink mix 
+                                                                 all water
+                                                                 coolers
+                                                                 water bottles
+                                                                 }
+                                                   juices - def - {shop all juices
+                                                                  no added sugar juice
+                                                                  great value juice
+                                                                  orange juice
+                                                                  apple juice
+                                                                  kids drinks and juice boxes
+                                                                  cranberry juice
+                                                                  fruit punch 
+                                                                  lemonade
+                                                                  pineapple juice
+                                                                  grape juice
+                                                                  latin juices
+                                                                  sparkaling juice
+                                                                  smoothies
+                                                                  cold pressed juices and shots
+                                                                  kombucha
+                                                                  pomgranate juice
+                                                                  cherry juice
+                                                                  aloe vera juice
+                                                                  }
+                                                   sports drinks - def - {great value sport
+                                                                         gatorade drinks
+                                                                         gatorade zero
+                                                                         prime hydration
+                                                                         powerade
+                                                                         powerrade-zero
+                                                                         bodyarmor
+                                                                         bodyarmor lyte
+                                                                         sports drinks
+                                                                         }
+                                                   coffee - def - {bolttled cofee
+                                                                  coffee creamers
+                                                                  coffee flavours
+                                                                  flogers coffee
+                                                                  black rifle coffee
+                                                                  black rifle coffee pods
+                                                                  black rifle ship to home coffee
+                                                                  blue bottle coffee
+                                                                  bottle and iced coffee
+                                                                  boyers coffee
+                                                                  cafe bustelo ship to home coffee
+                                                                  cafe la llave coffee 
+                                                                  camerons coffee
+                                                                  cappuccino coffee
+                                                                  caribou coffee
+                                                                  chock full o nuts coffee
+                                                                  coffee
+                                                                  coffee additives
+                                                                  coffee bean and tea leaf
+                                                                  }
+                                                   tea - def - {bottled tea
+                                                               tea bags
+                                                               black tea
+                                                               lipton tea
+                                                               great value tea
+                                                               herbal tea
+                                                               green tea
+                                                               tea concentrate 
+                                                               tea powder
+                                                               iced tea and mixes
+                                                               bigelow tea
+                                                               decaf tea
+                                                               celestial seasonings tea
+                                                               ginger tea
+                                                               twinings tea
+                                                               matcha tea
+                                                               decaffinated tea
+                                                               tea k cups
+                                                               loose leaf tea
+                                                               tea shippied to you 
+                                                               }
+                                                   energy drinks - def - {celcius 
+                                                                         monster energy
+                                                                         red bull 
+                                                                         alani nu
+                                                                         rockstar energy
+                                                                         ghost energy drink 
+                                                                         reign energy drink 
+                                                                         prime energy drink
+                                                                         bing ebergy drink 
+                                                                         ZOA energy drink 
+                                                                         C4 energy drink 
+                                                                         G fuel 
+                                                                         all eneergy drinks
+                                                                         mini fridges
+                                                                         }
+                                                   drink mixes and water enhancers - def - {great value drink mix
+                                                                                           crystal light drink mix
+                                                                                           liquid IV
+                                                                                           mio water enhancers 
+                                                                                           kool aid drink mix
+                                                                                           propel packets
+                                                                                           gatorade powered mix prime hydrations sticks
+                                                                                           allani nu energy sticks
+                                                                                           cirkul 
+                                                                                           country time leomande mix
+                                                                                           all powered drinks 
+                                                                                           }
+                                                   non-alcoholic mixxers - def - {fever tree
+                                                                                 jose cuervo margarita mix
+                                                                                 zing zang
+                                                                                 great value mixers
+                                                                                 margarita mix
+                                                                                 bloody mary mix
+                                                                                 pina colada mix 
+                                                                                 sweet and sour mix
+                                                                                 ginger beer 
+                                                                                 club soda
+                                                                                 tonic water
+                                                                                 simple syrup 
+                                                                                 grendine
+                                                                                 bitters
+                                                                                 angostura bitters
+                                                                                 all cocktail mixers
+                                                                                 vodka
+                                                                                 }
+                                                   protein shakes - def - {under $15 
+                                                                           equate
+                                                                           premier protein
+                                                                           quest
+                                                                           fairlife
+                                                                          pure protein 
+                                                                          ripple
+                                                                          orgain
+                                                                          OWYN
+                                                                          muscle milk
+                                                                          core powder
+                                                                          evolve
+                                                                          atkins
+                                                                          all protein shakes
+                                                                          protein shakers
+                                                                          }
+                                                   }
                                  baby food
                                  featured shops - def - { exclusively online 
                                                         everyday meals 
